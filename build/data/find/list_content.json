@@ -1,0 +1,166 @@
+{
+    "list1":[
+        {
+            "id":1,
+            "src":"/img/pd/pd-zf-5.jpg",
+            "name":"茵曼2017秋装新款小清新文艺圆领长袖条纹针织衫女套",
+            "price":"¥249",
+            "oldprice":"¥499"
+        },
+        {
+            "id":2,
+            "src":"/img/pd/sf-9.jpg",
+            "name":"科克兰 盐焗烘烤开心果 1.36千克",
+            "price":"¥99",
+            "oldprice":"¥198"
+        },
+        {
+            "id":3,
+            "src":"/img/pd/sf-10.jpg",
+            "name":"榙榙 咸鸭蛋黄饼干 80克/袋",
+            "price":"¥12.9",
+            "oldprice":"¥49"
+        },
+        {
+            "id":4,
+            "src":"/img/pd/sf-11.jpg",
+            "name":"唯他可可 椰子水饮料 330毫升/盒 12盒",
+            "price":"¥189",
+            "oldprice":"¥299"
+        },
+        {
+            "id":5,
+            "src":"/img/pd/sf-12.jpg",
+            "name":"巴黎水 含气青柠味饮料 330毫升 24",
+            "price":"¥129",
+            "oldprice":"¥199"
+        },
+        {
+            "id":6,
+            "src":"/img/pd/sf-13.jpg",
+            "name":"calbee 卡乐比 日本进口休闲零食佳可比黄油味薯条 90克/盒",
+            "price":"¥249",
+            "oldprice":"¥499"
+        },
+        {
+            "id":7,
+            "src":"/img/pd/sf-14.jpg",
+            "name":"唯他可可 椰子水饮料 330毫升/盒 12盒",
+            "price":"¥249",
+            "oldprice":"¥499"
+        }
+    
+    ],
+    "list2":[
+        {
+            "id":1,
+            "src":"/img/pd/sf-15.jpg",
+            "name":"茵曼2017秋装新款小清新文艺圆领长袖条纹针织衫女套",
+            "price":"¥249",
+            "oldprice":"¥499"
+        },
+        {
+            "id":2,
+            "src":"/img/pd/sf-16.jpg",
+            "name":"科克兰 盐焗烘烤开心果 1.36千克",
+            "price":"¥99",
+            "oldprice":"¥198"
+        },
+        {
+            "id":3,
+            "src":"/img/pd/sf-17.jpg",
+            "name":"榙榙 咸鸭蛋黄饼干 80克/袋",
+            "price":"¥12.9",
+            "oldprice":"¥49"
+        },
+        {
+            "id":4,
+            "src":"/img/pd/sf-18.jpg",
+            "name":"唯他可可 椰子水饮料 330毫升/盒 12盒",
+            "price":"¥189",
+            "oldprice":"¥299"
+        },
+        {
+            "id":5,
+            "src":"/img/pd/sf-19.jpg",
+            "name":"巴黎水 含气青柠味饮料 330毫升 24",
+            "price":"¥129",
+            "oldprice":"¥199"
+        }
+    ],
+    "list3":[
+        {
+            "id":1,
+            "src":"/img/pd/sf-25.jpg",
+            "name":"茵曼2017秋装新款小清新文艺圆领长袖条纹针织衫女套",
+            "price":"¥249",
+            "oldprice":"¥499"
+        },
+        {
+            "id":2,
+            "src":"/img/pd/sf-26.jpg",
+            "name":"科克兰 盐焗烘烤开心果 1.36千克",
+            "price":"¥99",
+            "oldprice":"¥198"
+        },
+        {
+            "id":3,
+            "src":"/img/pd/sf-27.jpg",
+            "name":"榙榙 咸鸭蛋黄饼干 80克/袋",
+            "price":"¥12.9",
+            "oldprice":"¥49"
+        },
+        {
+            "id":4,
+            "src":"/img/pd/sf-28.jpg",
+            "name":"唯他可可 椰子水饮料 330毫升/盒 12盒",
+            "price":"¥189",
+            "oldprice":"¥299"
+        },
+        {
+            "id":5,
+            "src":"/img/pd/sf-29.jpg",
+            "name":"巴黎水 含气青柠味饮料 330毫升 24",
+            "price":"¥129",
+            "oldprice":"¥199"
+        }
+    ],
+    "list4":[
+        {
+            "id":1,
+            "src":"/img/pd/sf-20.jpg",
+            "name":"茵曼2017秋装新款小清新文艺圆领长袖条纹针织衫女套",
+            "price":"¥249",
+            "oldprice":"¥499"
+        },
+        {
+            "id":2,
+            "src":"/img/pd/sf-21.jpg",
+            "name":"科克兰 盐焗烘烤开心果 1.36千克",
+            "price":"¥99",
+            "oldprice":"¥198"
+        },
+        {
+            "id":3,
+            "src":"/img/pd/sf-22.jpg",
+            "name":"榙榙 咸鸭蛋黄饼干 80克/袋",
+            "price":"¥12.9",
+            "oldprice":"¥49"
+        },
+        {
+            "id":4,
+            "src":"/img/pd/sf-23.jpg",
+            "name":"唯他可可 椰子水饮料 330毫升/盒 12盒",
+            "price":"¥189",
+            "oldprice":"¥299"
+        },
+        {
+            "id":5,
+            "src":"/img/pd/sf-24.jpg",
+            "name":"巴黎水 含气青柠味饮料 330毫升 24",
+            "price":"¥129",
+            "oldprice":"¥199"
+        }
+    ]
+}
+
